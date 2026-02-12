@@ -39,7 +39,7 @@ Node Process
 ├── libuv
 │ ├── Thread Pool (default: 4)
 │ └── OS I/O Integration
-
+```
 
 ---
 
