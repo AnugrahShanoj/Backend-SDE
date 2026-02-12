@@ -27,6 +27,7 @@ OS-level async I/O integration
 
 ## 2️⃣ High-Level Node Architecture
 
+```text
 Node Process
 │
 ├── V8 Engine (Main JS Thread)
